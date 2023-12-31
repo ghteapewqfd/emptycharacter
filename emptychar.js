@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   console.log("Video.js player initialized");
 
-  var vastTagPreroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=emptycharacter&ad_type=video&description_url=https%3A%2F%2Ffilesamples.com%2Fsamples%2Fvideo%2Fmp4%2Fsample_960x400_ocean_with_audio.mp4&max_ad_duration=30000&videoad_start_delay=0&vpmute=1&vpa=click";
+  var vastTagPreroll = "https://googleads.g.doubleclick.net/pagead/ads?client=ca-video-pub-6419767829488704&slotname=emptycharacter&ad_type=video&description_url=https%3A%2F%2Femptycharacter.com&max_ad_duration=30000&videoad_start_delay=0&vpmute=1&vpa=click";
   var vastTagMidroll = "path/to/your/vast-tag.xml";
   var vastTagPostroll = "path/to/your/vast-tag.xml";
   var prerollTriggered = false;
